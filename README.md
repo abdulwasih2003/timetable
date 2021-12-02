@@ -88,5 +88,5 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![Github logo](img.png)
-
+![output](img.png)
+![output](HTML_validator.png)
