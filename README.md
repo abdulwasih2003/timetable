@@ -1,9 +1,9 @@
 # Experiment_Time_Table
 
-## AIM
+## AIM:
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
+## ALGORITHM:
 ### STEP 1
 create a simple table using table tag
 ### STEP 2
@@ -13,7 +13,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE:
 ~~~<!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
@@ -86,6 +86,10 @@ Execute the program
 </body>
 </html>
 ~~~
-# OUTPUT
+## OUTPUT:
 ![output](img.png)
 ![output](HTML_validator.png)
+
+## Result:
+
+Thus the webpage to display timetable is successful.
